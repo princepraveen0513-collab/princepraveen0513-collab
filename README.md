@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 Who Am I?
 
-I’m a **AI & Data enthusiast** with a strong focus on building real-world AI solutions.  
+I’m an **AI & Data enthusiast** with a strong focus on building real-world AI solutions.  
 My work spans across:
 
 - **NLP & Transformers** — from summarizing movie reviews with T5 to building semantic recommender systems with SBERT.  
